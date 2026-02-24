@@ -16,7 +16,7 @@ This project was created to demonstrate end-to-end manual QA documentation skill
 ---
 
 ## 📂 **Full Project Folder (Google Drive)**  
-The complete project — including all documents and the **Defect_Screenshots** evidence folder — is available here:
+The complete project, including all documents and the **Defect_Screenshots** evidence folder, is available here:
 
 ➡️ **[OpenCart Manual Testing – Full Google Drive Folder](https://drive.google.com/drive/folders/1nsLJUOJev4EpwEsOERr7V60oNQXztay1?usp=drive_link)**
 
