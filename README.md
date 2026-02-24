@@ -5,7 +5,7 @@ This project was created to demonstrate end-to-end manual QA documentation skill
 ## **📁 Test Deliverables**
 
 ### **Test Plan**
-- [OpenCart Manual Test Plan (PDF)](https://drive.google.com/file/d/1_4TIC-75mjApH1IbUJeYSOrezCnUGAWS/view?usp=drive_link)
+- [OpenCart Manual Test Plan (PDF)](https://drive.google.com/file/d/1Yh8TLVheLf3cS1kyiH_9PgxzoLKYW4C4/view?usp=drive_link)
 
 ### **Test Cases**
 - [Test Cases Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1l62cuEGMh7DGcz-FrUaxuexiW2NMMR8TgZv2HDUiWvE/edit?usp=drive_link)
