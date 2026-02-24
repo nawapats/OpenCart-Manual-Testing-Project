@@ -11,3 +11,10 @@ Manual QA testing project for the OpenCart demo application, including a full Te
 
 ### **Defect Report**
 - [Defect Report Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1y-Rf0IOYbPQ2L4CARsvu2JMn3qaPWlDHpM98iNQNiL0/edit?usp=drive_link)
+
+---
+
+## 📂 **Full Project Folder (Google Drive)**  
+The complete project — including all documents and the **Defect_Screenshots** evidence folder — is available here:
+
+➡️ **[OpenCart Manual Testing – Full Google Drive Folder](https://drive.google.com/drive/folders/1nsLJUOJev4EpwEsOERr7V60oNQXztay1?usp=drive_link)**
