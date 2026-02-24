@@ -1,2 +1,13 @@
 # OpenCart-Manual-Testing-Project
 Manual QA testing project for the OpenCart demo application, including a full Test Plan, Test Cases, and Defect Report.
+
+## **📁 Test Deliverables**
+
+### **Test Plan**
+- [OpenCart Manual Test Plan (PDF)](https://drive.google.com/file/d/1_4TIC-75mjApH1IbUJeYSOrezCnUGAWS/view?usp=drive_link)
+
+### **Test Cases**
+- [Test Cases Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1l62cuEGMh7DGcz-FrUaxuexiW2NMMR8TgZv2HDUiWvE/edit?usp=drive_link)
+
+### **Defect Report**
+- [Defect Report Spreadsheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1y-Rf0IOYbPQ2L4CARsvu2JMn3qaPWlDHpM98iNQNiL0/edit?usp=drive_link)
