@@ -1,5 +1,6 @@
 # OpenCart-Manual-Testing-Project
 Manual QA testing project for the OpenCart demo application, including a full Test Plan, Test Cases, and Defect Report.
+This project was created to demonstrate end-to-end manual QA documentation skills, including test design, execution, and defect reporting.
 
 ## **📁 Test Deliverables**
 
