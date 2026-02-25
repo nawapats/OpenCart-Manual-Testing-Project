@@ -27,11 +27,5 @@ The complete project, including all documents and the **Defect_Screenshots** evi
 
 ➡️ **[OpenCart Manual Testing – Full Google Drive Folder](https://drive.google.com/drive/folders/1nsLJUOJev4EpwEsOERr7V60oNQXztay1?usp=drive_link)**
 
-## 🛠 Tools Used
-- Google Sheets
-- Google Drive
-- MacOS – Google Chrome & Safari
-- OpenCart Demo Site
-
 ## 🔗 Application Under Test
 OpenCart Demo Store: https://demo.opencart.com
