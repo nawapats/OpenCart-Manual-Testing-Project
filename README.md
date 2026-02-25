@@ -1,5 +1,13 @@
 # OpenCart-Manual-Testing-Project
-Manual QA testing project for the OpenCart demo application, including a full Test Plan, Test Cases, and Defect Report.
+
+**Author:** Nawapat Srisuphapreeda  
+**Role:** Manual QA / Test Designer  
+**Project Type:** Self-Directed Portfolio Project  
+**Date:** February 2026  
+
+---
+
+Manual QA testing project for the OpenCart demo application, including a full Test Plan, Test Cases, and Defect Report.  
 This project was created to demonstrate end-to-end manual QA documentation skills, including test design, execution, and defect reporting.
 
 ## **📁 Test Deliverables**
